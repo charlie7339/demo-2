@@ -1,0 +1,55 @@
+.box{
+    
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    background-image: url(free-images.jpg);
+    border-style:ridge;
+    border-width: 10px;
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-radius: 30px;
+    border-color: rgba(55, 36, 92, 0.404);
+
+    
+
+
+}
+.h1{
+    color: black;
+    text-align: center;
+    text-shadow: 5cm;
+}
+
+.overflow{
+    height: 200px;
+    width: 200px;
+    border: 40px solid black;
+    color: brown;
+    background-color: black;
+    overflow: scroll;
+}
+.element{
+    height: 500px;
+    width: 500px;
+    border: red;
+    background-color: black;
+    position: absolute;
+
+}
+.element2{
+    height: 300px;
+    width: 300px;
+    border: yellow;
+    background-color:blueviolet;
+    position: absolute;
+     
+}
+.element3{
+    height: 100px;
+    width: 100px;
+    border:brown;
+    background-color:green;
+    position: absolute;
+     
+}
